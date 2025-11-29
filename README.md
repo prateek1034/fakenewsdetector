@@ -1,1 +1,1 @@
-# fakenewsdetector
+# Welcome to the TRUTH SIFTER Project
